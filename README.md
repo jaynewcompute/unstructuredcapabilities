@@ -1,12 +1,29 @@
 # Unstructured Thoughts
 
 ## Mission
-Make the world's unstructured data more useful to AI.
+//Make the world's unstructured data more useful to AI
+//Prepare the world's unstructured data for AI
 
 ## Problem Statement
-As the tide of AI rises, as our reasoning engines get more powerful, the bottleneck becomes data. AI will evolve, improving its ability to leverage diverse datasets. Large language models will adeptly utilize ambiguous, underspecified, and chaotic data. The crux? The quality and availability of unstructured data.
+Natural language reasoning engines, like LLMs, are the most important technological development of our lifetimes, for a few reasons:
 
-To revolutionize AI, we must meet its data needs. We must arm it with data that pushes its pattern-matching abilities to the limit. Here lies the challenge for data engineers, data scientists, and software & devops engineers. By coming together, we can shape the future of AI.
+1) Reasoning is the highest leverage force in the universe
+2) LLMs will likely be able to reason about, and virtualize, a wide variety of important systems, like physics, biology, chemistry, people, computers, etc, through the simple interface of natural language
+3) Making all of the world's knowledge semantically searchable, to apply that reasoning, will be the most democratizing shift since the printing press 
+
+If we're on the same page about the above, the next question is, how do we get there?
+
+That's becoming more and more clear: the biggest bottleneck to powerful, democratized reasoning is the availability of high quality data. AI will get better at reasoning, and we will get better at piping AI into more places, but the majority of useful infromation is stuck in unstructured data (much of which is private). In other words, as machines become more intelligent, the value of unstructured data goes exponential. 
+
+Increasing the amount of accessible, useufl unstructured data is the most important thing in all of AI.
+
+"Progress in science depends on new techniques, new discoveries and new ideas, probably in that order" - Sidney Brenner
+
+The goal of this memo is to activate and mobilize the most important role, in the most important race: the data engineer. If we want to bring the future forward, if we want accelerate the proliferation of productive, artificial reasoning, we need the data community to mobilize. If we want to solve the world's problems, cure diseases, unbreak the economy, fix global crises, and make scientific breakthroughs we need to make sure unstructured data meets AI closer to where it's at. We need to unleash the power of machine reasoning on everything, and we are limited only by what we can "feed" it. And the biggest bottleneck in the quality and availability of what we can feed it is new tools and techniuqes.
+
+"Progress in science depends on new techniques, new discoveries and new ideas, probably in that order" - Sidney Brenner
+
+If we, as a community of engineers and data scientists can come together and build a new set of tools. If we promote the liberation of private, siloed data. If we improve humanities ability to make unstructured data useful. We can bring the future forward. It's not going to be easy, it's not going to happen over night, but needles are going to be moved. 
 
 ## The Plan
 Yet to be outlined.
