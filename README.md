@@ -1,4 +1,4 @@
-# unstructured
+# Unstructured thoughts
 
 ## Mission
 Make the world's unstructured data more useful to AI.
