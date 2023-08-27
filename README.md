@@ -3,6 +3,7 @@
 ### Mission
 - Make the world's unstructured data more useful to AI
 - Prepare the world's unstructured data for AI
+- Encode the structure in the world's unstructured data
 
 ### Problem Statement
 Natural language reasoning engines, like LLMs, are the most important technological development of our lifetimes, for a few reasons:
@@ -40,6 +41,7 @@ Yet to be outlined.
 - [2/3rd of company data goes unused](https://www.frontier-enterprise.com/two-thirds-of-data-available-to-firms-goes-unused/).
 - [The volume of data is EXPLODING](https://www.researchgate.net/publication/309393428_Unstructured_Data_an_overview_of_the_data_of_Big_Data).
 - [Data scientists spend too much time organizing, unifying, and cleaning data](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=28e1f5556f63).
+- [90% of the world's data will be unstructured by 2025](https://mitsloan.mit.edu/ideas-made-to-matter/tapping-power-unstructured-data)
 
 ### Inspiration
 - The Airbyte community, and what they have done for strucured data
