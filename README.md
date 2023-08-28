@@ -1,6 +1,7 @@
 ### Mission
 Bring structure to the world's unstrucutured data
 
+
 ### Problem Statement
 Natural language reasoning engines, like LLMs, are the most important technological development of our lifetimes, for a few reasons:
 
@@ -20,29 +21,32 @@ If we, as a community of engineers, scientists, and hackers, can come together a
 
 
 ### The Plan
-Yet to be outlined.
+Yet to be outlined
 
 
 ### A Few Things We Believe
 - Every team will need a data engineer, or have some one who can effectively function as one
 - Building better tools will close the gap faster than convincing more people to specialize in data engineering
-- Open, community-led collaborative efforts are the way forward.
+- Open, community-led collaborative efforts are the way forward
 - The data community holds untapped potential
 - [Dataism](https://en.wikipedia.org/wiki/Dataism#:~:text=Dataism%20is%20a%20term%20that,New%20York%20Times%20in%202013) is sick
 
+
 ### Some External Validation
-- [2/3rd of company data goes unused](https://www.frontier-enterprise.com/two-thirds-of-data-available-to-firms-goes-unused/).
-- [The volume of data is EXPLODING](https://www.researchgate.net/publication/309393428_Unstructured_Data_an_overview_of_the_data_of_Big_Data).
+- [2/3rd of company data goes unused](https://www.frontier-enterprise.com/two-thirds-of-data-available-to-firms-goes-unused/)
+- [The volume of data is EXPLODING](https://www.researchgate.net/publication/309393428_Unstructured_Data_an_overview_of_the_data_of_Big_Data)
 - [Data scientists spend too much time organizing, unifying, and cleaning data](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=28e1f5556f63)
 - [90% of the world's data will be unstructured by 2025](https://mitsloan.mit.edu/ideas-made-to-matter/tapping-power-unstructured-data)
 - [We might run out of data soon...](https://arxiv.org/pdf/2211.04325.pdf)
 - [Data as the biggest bottleneck in AI](https://medium.com/nevermined-io/data-will-become-the-bottleneck-for-ai-how-ironic-ebaaca11db73)
 - [Data quality as the biggest bottleneck in AI](https://www.forbes.com/sites/forbestechcouncil/2023/02/01/data-quality-the-real-bottleneck-in-ai-adoption/?sh=75b93c3f1022)
 
+
 ### Inspiration
 - The Airbyte community, and the tools they've built for strucured data
 - LlamaIndex & LangChain communities, and the frameworks they've built to make LLM apps more accessible
 - Unstructured.io community, and their work with the public sector
+
 
 ### Resources & Insights
 - [Llama Index ingestors](https://github.com/jerryjliu/llama_index)
