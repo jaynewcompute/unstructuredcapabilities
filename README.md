@@ -33,9 +33,9 @@ Yet to be outlined.
 ### Some External Validation
 - [2/3rd of company data goes unused](https://www.frontier-enterprise.com/two-thirds-of-data-available-to-firms-goes-unused/).
 - [The volume of data is EXPLODING](https://www.researchgate.net/publication/309393428_Unstructured_Data_an_overview_of_the_data_of_Big_Data).
-- [Data scientists spend too much time organizing, unifying, and cleaning data](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=28e1f5556f63).
+- [Data scientists spend too much time organizing, unifying, and cleaning data](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=28e1f5556f63)
 - [90% of the world's data will be unstructured by 2025](https://mitsloan.mit.edu/ideas-made-to-matter/tapping-power-unstructured-data)
-- [Out of data soon](https://arxiv.org/pdf/2211.04325.pdf)
+- [We might run out of data soon...](https://arxiv.org/pdf/2211.04325.pdf)
 - [Data as the biggest bottleneck in AI](https://medium.com/nevermined-io/data-will-become-the-bottleneck-for-ai-how-ironic-ebaaca11db73)
 - [Data quality as the biggest bottleneck in AI](https://www.forbes.com/sites/forbestechcouncil/2023/02/01/data-quality-the-real-bottleneck-in-ai-adoption/?sh=75b93c3f1022)
 
