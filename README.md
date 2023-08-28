@@ -1,8 +1,5 @@
 ### Mission
-- Make the world's unstructured data more useful to AI
-- Prepare the world's unstructured data for AI
-- Encode the structure in the world's unstructured data
-- Bring new capabilities to unstructured data
+Bring structure to the world's unstrucutured data
 
 ### Problem Statement
 Natural language reasoning engines, like LLMs, are the most important technological development of our lifetimes, for a few reasons:
