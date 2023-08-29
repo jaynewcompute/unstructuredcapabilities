@@ -5,22 +5,22 @@ Bring structure to the world's unstrucutured data
 ### Problem Statement
 Natural language reasoning engines, like LLMs, are the most important technological development of our lifetimes, for a few reasons:
 
-1) Reasoning is the highest-leverage force in the universe
-2) LLMs will likely be able to reason about, and virtualize, a wide variety of important systems (e.g. physics, biology, chemistry, people, computers, the mess of the healthcare industry) through the interface of natural language
-3) Making all of the world's knowledge semantically searchable, to accelerate and apply that reasoning, will be the most democratizing shift since the printing press 
+1) Reasoning is the foundation of all leverage
+2) LLMs will likely be able to reason about, and virtualize, a wide variety of important systems (e.g. physics, biology, chemistry, people, computers, the mess of the healthcare industry, etc) through the interface of natural language
+3) Making all of the world's knowledge semantically searchable, to accelerate that reasoning, has huge potential to democratize access to information 
 
 If we're on the same page about the above, the next question is, how do we get there?
 
-That's becoming more and more clear: the biggest bottleneck to more powerful, democratized artificial reasoning is the availability of high quality data. We can't sit around and wait for algorithmic improvements, and even if we do, algorithms need to get their hands on as much specialized data as they can. Language models will definitely get better at reasoning, and we will definitely get better at piping language models into more places, but the majority of mission-critical, useful data is siloed off somewhere in an unstructured format. In other words, the importance of increasing the amount of accessible, useful unstructured data is going exponential.
+That's becoming more and more clear: the biggest bottleneck to more powerful, democratized artificial reasoning is the availability of high quality data. We can't sit around and wait for algorithmic improvements, and even when they come, the algorithms need to get their hands on as much specialized data as they can. Language models will get better at reasoning, and we'll get them into more places, but the majority of mission-critical, useful data is siloed and unstructured. In other words, the importance of increasing the amount of accessible, useful unstructured data is going exponential.
 
-The goal of this memo is to activate and mobilize the data community, the most important community in the world's most important race. If we want to bring the future forward, if we want accelerate the proliferation of productive artificial reasoning, we need to coordinate. If we want to solve the big hairy problem - cure diseases, unbreak the economy, fix global crises, and make scientific breakthroughs, we need unstructured data to meet AI closer to where it's at.
+The goal of this memo is to activate and mobilize the ML & data community, the most important communities in the world's most important race. If we want to bring the future forward, if we want accelerate the proliferation of productive models, we need to coordinate. If we want to solve the big hairy problem - cure diseases, unbreak the economy, fix global crises, and make scientific breakthroughs, we need unstructured data to meet AI closer to where it's at.
 
 "Progress in science depends on new techniques, new discoveries and new ideas, probably in that order" - Sidney Brenner
 
-If we, as a community of engineers, scientists, and hackers, can come together and build a new set of tools. If we can encourage the liberation of private, siloed data. If we can improve humanities ability to make unstructured data more useful, we can bring the future forward. 
+If we, as a community of engineers, scientists, and hackers, can come together and build a new set of tools. If we can improve humanities ability to make unstructured data more useful. And along the way, if we can encourage the liberation of private, siloed data, we can bring the future forward. 
 
 The best way to encourage the liberation of private, siloed data is to:
-1) make it easier (with amazing tools and shared standards) and
+1) make it easier (with amazing tools and shared standards)
 2) create a tidal wave of momentum and social coordination aroung doing it
   
 It's not going to be easy, it's not going to happen over night, but needles are going to be moved. 
@@ -54,6 +54,7 @@ Yet to be outlined
 - Unstructured.io community, and their work with the public sector
 
 ### Principles
+- Extensibility and generalizable usefulness
 - Build a universal data model that handles most formats and sources of unstructured data
 - Build a universal "connector development kit" on top of that model
 - Iteratively maximize extensibility, generalizability, and usefulness of (1) and (2)
