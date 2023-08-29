@@ -54,11 +54,9 @@ Yet to be outlined
 - Unstructured.io community, and their work with the public sector
 
 ### Principles
-- Extensibility and generalizable usefulness
-- Build a universal data model that handles most formats and sources of unstructured data
-- Build a universal "connector development kit" on top of that model
-- Iteratively maximize extensibility, generalizability, and usefulness of (1) and (2)
-- 
+- Extensibility is key
+- Maximize integrations, not by casting a wide net & shallow value, but through deep, generalizable frameworks
+  
 
 ### Resources & Insights
 - [Llama Index ingestors](https://github.com/jerryjliu/llama_index)
