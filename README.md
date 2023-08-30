@@ -1,5 +1,5 @@
 ### Mission
-Bring structure to the world's unstrucutured data with a set of shared standards: modular, easily extensible, low opinion.
+Bring structure to the world's unstrucutured data with a set of shared standards.
 
 
 ### Problem Statement
@@ -8,23 +8,16 @@ Natural language reasoning engines, like LLMs, are the most important technologi
 1) Reasoning is the foundation of all leverage
 2) LLMs will likely be able to reason about, and virtualize, a wide variety of important systems (e.g. physics, biology, chemistry, people, computers, the mess of the healthcare industry, etc) through the interface of natural language
 3) Making all of the world's knowledge semantically searchable, to accelerate that reasoning, will democratize access to information by orders of magnitude
-
    
 If we're on the same page about the above, the next question is, how do we get there?
 
-That's becoming more and more clear: the biggest bottleneck to more powerful, democratized artificial reasoning is the availability of high quality data. We can't sit around and wait for algorithmic improvements, and even when they come, the algorithms need to get their hands on as much specialized data as they can. The majority of mission-critical, useful data is siloed and unstructured. In other words, the importance of increasing the amount of useful unstructured data is going exponential.
-
-The goal of this memo is to activate and mobilize the ML & data community, the most important community in the world's most important race. If we want to bring the future forward, if we want to point AI at the most important problems, we need to coordinate. If we want to cure diseases, unbreak the economy, fix global crises, and make scientific breakthroughs, we need unstructured data to meet AI closer to where it's at.
+That's becoming more and more clear: the biggest bottleneck to more powerful, democratized artificial reasoning is the availability of high quality data. We can't sit around and wait for algorithmic improvements, and even when they come, the algorithms need to get their hands on as much specialized data as they can. And, the majority of mission-critical, useful data is unstructured, especially the types that AI is hungry for. In other words, the importance of increasing the amount of useful unstructured data is going exponential.
 
 "Progress in science depends on new techniques, new discoveries and new ideas, probably in that order" - Sidney Brenner
 
-If we, as a community of engineers, scientists, and hackers, can come together and build a new set of standards. If we can improve humanities ability to make unstructured data more useful. And if we can encourage the liberation of data, we can bring the future forward. 
-  
+Our goal is to activate and mobilize the ML & data community, the most important community in the world's most important race. If we want to bring the future forward, if we want to point AI at society's most important and specialized problems, we need to coordinate and build a new set of standards and tools. If we want to cure diseases, unbreak the economy, fix global crises, and make scientific breakthroughs, we need unstructured data to meet AI closer to where it's at.
+
 It's not going to be easy, it's not going to happen over night, but needles are going to be moved. 
-
-
-### The Plan
-Yet to be outlined
 
 
 ### A Few Things We Believe
@@ -51,9 +44,11 @@ Yet to be outlined
 - LlamaIndex & LangChain communities, and the frameworks they've built to make LLM apps more accessible
 - Unstructured.io community, and their work with the public sector
 
+
 ### Principles
-- Extensibility is key
-- Maximize integrations, not by casting a wide net & shallow value, but through deep, generalizable frameworks
+- Modular, easily extensible, low opinion.
+- Maximize integrations, not by casting a wide and shallow net, but through deep value and useful, generalizable standards
+- Maximize the semantic searchability and semantic control of data
   
 
 ### Resources & Insights
