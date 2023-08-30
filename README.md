@@ -1,5 +1,5 @@
 ### Mission
-Bring structure to the world's unstrucutured data with a set of shared standards.
+Bring structure to the world's unstrucutured data through a set of shared standards.
 
 
 ### Problem Statement
